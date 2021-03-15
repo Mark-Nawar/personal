@@ -1,0 +1,190 @@
+html{
+    height: 100%;
+  }
+body{
+    margin: 0;
+    text-align: center;
+    height: 100%;
+}
+p{
+    font-family: 'Work Sans', sans-serif;
+}
+.head{
+    font-family: 'Merriweather', serif;
+    position: relative;
+    top: 25%;
+    font-size:1.3rem;
+    color: #173551;
+}
+h1{
+position: relative;
+top:20%;
+margin :0;
+padding-bottom: 0;
+font-family: 'Sacramento', cursive;
+font-size: 5.5rem;
+color: #173551;
+}
+
+.upper_part{
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#cbccc8));
+    background-image: linear-gradient(#f7cea2,#efb069);
+    position: relative;
+    height: 100%;
+}
+.extraImages{
+    position: absolute;
+}
+.Pyramid{
+    position: absolute;
+    left:33.5%;
+    bottom: 0;
+}
+.key{
+    height: 70px;
+    width: 70px;
+
+}
+.leftKey{
+    left: 37%;
+    top:41%;
+
+}
+.rightKey{
+    right: 37%;
+    top:41%;
+}
+.cloud{
+    height: 200px;
+    width : 200px;
+}
+.leftCloud{
+    left: 15%;
+    top: 20%;
+}
+.rightCloud{
+    right: 15%;
+    top: 3%;
+}
+.bird{
+    height:100px;
+    width: 100px;
+}
+.birds1{
+    left: 20%;
+    bottom: 30%;
+}
+.birds2{
+    right: 25%;
+    bottom: 40%;
+
+}
+.tree{
+    height: 200px;
+    width: 200px;
+}
+.sidePalmTrees1{
+      left:10%;
+      bottom: 0;
+}
+.sidePalmTrees2{
+    right:10%;
+    bottom: 0;
+}
+.personal_section{
+    width: 65%;
+    margin: 100px auto  100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.personalImage{
+    width: 45%;
+    float: left;
+    margin-right: 50px;
+}
+.coding_image{
+    width: 35%;
+    float : right;
+    margin-left: 50px;
+}
+hr {
+    border:none;
+    height: 20px;
+    width: 90%;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 1px solid #1f1209;
+    box-shadow: 0 20px 20px -20px #333;
+    margin: -50px auto 10px; 
+  }
+  h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: #efb069;
+
+  }
+  h4{
+    font-family: 'Ubuntu', sans-serif;
+  }
+.skills{
+    width: 65%;
+    margin: 100px auto  100px auto;
+    text-align: left;
+    line-height: 2;
+}
+span{
+    display: block;
+}
+.contactInfo{
+    margin: 100px auto 100px auto;
+}
+.links{
+    background-color:#efb069 ;
+    height: 100px;
+    padding-top: 50px;
+}
+a{
+    padding-right: 30px;
+    color: #8a460b;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+}
+.BUTTON_TCE {
+    background: #EFB069;
+    background-image: -webkit-linear-gradient(top, #EFB069, #F7CEA2);
+    background-image: -moz-linear-gradient(top, #EFB069, #F7CEA2);
+    background-image: -ms-linear-gradient(top, #EFB069, #F7CEA2);
+    background-image: -o-linear-gradient(top, #EFB069, #F7CEA2);
+    background-image: -webkit-gradient(to bottom, #EFB069, #F7CEA2);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 21px;
+    font-weight: 100;
+    padding: 12px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_TCE:hover {
+    border: solid #FFFFFF 1px;
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #303943);
+    background-image: -moz-linear-gradient(top, #000000, #303943);
+    background-image: -ms-linear-gradient(top, #000000, #303943);
+    background-image: -o-linear-gradient(top, #000000, #303943);
+    background-image: -webkit-gradient(to bottom, #000000, #303943);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
